@@ -1,7 +1,6 @@
 # Github-readme-skill-icons
 
 
-```markdown
 # Skill Icons
 
 Showcase your programming skills on your GitHub or résumé with ease! Powered by Cloudflare Workers ⚡
