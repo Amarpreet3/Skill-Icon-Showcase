@@ -33,6 +33,7 @@ Icons can be displayed with a dark or light theme. Specify your preference using
 ```markdown
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 ```
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ### Icons Per Line
 Control the number of icons per line by adjusting the `&perline=` parameter. The default is 15 icons per line.
@@ -40,6 +41,8 @@ Control the number of icons per line by adjusting the `&perline=` parameter. The
 ```markdown
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 ```
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ### Centering Icons
 To center the icons in your readme, use HTML alignment tags as shown below:
@@ -51,7 +54,11 @@ To center the icons in your readme, use HTML alignment tags as shown below:
   </a>
 </p>
 ```
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 ### Additional Skill Badges
 
 [![image](https://github.com/Amarpreet3/Github-readme-skill-icons/assets/96805692/cd390bcd-0b84-48ae-8609-8563742e5863)](https://shields.io/)
