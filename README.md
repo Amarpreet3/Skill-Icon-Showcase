@@ -90,7 +90,11 @@ To center the icons in your readme, use HTML alignment tags as shown below:
   </a>
 </p>
 ```
-
+<p align="center">
+  <a href="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg">
+    <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg" />
+  </a>
+</p>
 ### Additional Skill Badges
 
 [![image](https://github.com/Amarpreet3/Github-readme-skill-icons/assets/96805692/cd390bcd-0b84-48ae-8609-8563742e5863)](https://shields.io/)
@@ -112,5 +116,5 @@ Enhance your skills showcase with additional badges linking to relevant technolo
 For a complete list of supported icons and to request new ones, please open an issue on our GitHub repository.
 
 ## About
-This project makes it easy to showcase your skills on GitHub readmes or résumés. Visit [Skill Icons Website](https://skillicons.dev) for more information.
+This project makes it easy to showcase your skills on GitHub readmes or résumés. Visit [Skill Icons]([https://skillicons.dev](https://github.com/Amarpreet3/Github-readme-skill-icons/tree/main)) for more information.
 
