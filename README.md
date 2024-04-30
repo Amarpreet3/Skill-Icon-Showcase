@@ -56,10 +56,6 @@ To center the icons in your readme, use HTML alignment tags as shown below:
 
 [![image](https://github.com/Amarpreet3/Github-readme-skill-icons/assets/96805692/cd390bcd-0b84-48ae-8609-8563742e5863)](https://shields.io/)
 
-
-[![image](https://github.com/Amarpreet3/Github-readme-skill-icons/assets/96805692/241e9ab4-77b2-4903-aedb-3a0d13f69682)
-](https://skillicons.dev)
-
 Enhance your skills showcase with additional badges linking to relevant technologies and platforms:
 
 ```markdown
