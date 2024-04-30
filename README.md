@@ -1,7 +1,6 @@
 # Github-readme-skill-icons
 
-[Skill Icons](https://skillicons.dev)
-
+[![Skill Icons](https://skillicons.dev/icons?i=code)](https://skillicons.dev)
 
 Showcase your programming skills on your GitHub or résumé with ease! Powered by Cloudflare Workers ⚡
 
