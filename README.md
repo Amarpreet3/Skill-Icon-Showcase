@@ -126,6 +126,7 @@ To center the icons in your readme, use HTML alignment tags as shown below:
     <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg" />
   </a>
 </p>
+
 ### Additional Skill Badges
 
 [![image](https://github.com/Amarpreet3/Github-readme-skill-icons/assets/96805692/cd390bcd-0b84-48ae-8609-8563742e5863)](https://shields.io/)
