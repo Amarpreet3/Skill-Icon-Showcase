@@ -1,5 +1,9 @@
 # Github-readme-skill-icons
 
+
+Showcase your programming skills on your GitHub or résumé with ease! Powered by Cloudflare Workers ⚡
+
+### Example
 ```markdown
 [![Python](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg)](https://www.python.org)
 [![R](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/r.svg)](https://www.r-project.org)
@@ -10,7 +14,14 @@
 [![Regex](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/regex.svg)](https://www.regular-expressions.info)
 ```
 
-Showcase your programming skills on your GitHub or résumé with ease! Powered by Cloudflare Workers ⚡
+[![Python](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg)](https://www.python.org)
+[![R](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/r.svg)](https://www.r-project.org)
+[![C](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/c.svg)](https://www.iso.org/standard/74528.html)
+[![C++](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/cpp.svg)](https://isocpp.org)
+[![Java](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/java.svg)](https://www.oracle.com/java)
+[![JavaScript](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Regex](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/regex.svg)](https://www.regular-expressions.info)
+
 
 **Note**: To maintain icon consistency and ensure browser support, we do not accept pull requests for icon submissions. If you want an icon added, please open an issue.
 
@@ -31,7 +42,7 @@ Icons can be displayed with a dark or light theme. Specify your preference using
 ```markdown
 [![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
 ```
-[![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
+[![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Light.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
 
 ### Icons Per Line
 Control the number of icons per line by adjusting the `&perline=` parameter. The default is 15 icons per line.
@@ -40,7 +51,7 @@ Control the number of icons per line by adjusting the `&perline=` parameter. The
 [![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
 ```
 [![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
-[![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
+
 
 ### Centering Icons
 To center the icons in your readme, use HTML alignment tags as shown below:
@@ -53,65 +64,6 @@ To center the icons in your readme, use HTML alignment tags as shown below:
 </p>
 ```
 
-
-# Skill Icons
-
-Showcase your programming skills on your GitHub or résumé with ease! Powered by Cloudflare Workers ⚡
-
-**Note**: To maintain icon consistency and ensure browser support, we do not accept pull requests for icon submissions. If you want an icon added, please open an issue.
-
-## Documentation
-
-### Specifying Icons
-To add skill icons to your readme, copy and paste the code block below and customize it with your skills, separated by commas. Find the full list of available icons at [Skill Icons List](https://skillicons.dev).
-
-```markdown
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org)
-[![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Regex](https://skillicons.dev/icons?i=regex)](https://www.regular-expressions.info)
-```
-### Example
-
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org)
-
-### Themed Icons
-Icons can be displayed with a dark or light theme. Specify your preference using the `&theme=` parameter in the URL.
-
-**Example - Light Theme**:
-```markdown
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-```
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
-### Icons Per Line
-Control the number of icons per line by adjusting the `&perline=` parameter. The default is 15 icons per line.
-
-```markdown
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-```
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
-### Centering Icons
-To center the icons in your readme, use HTML alignment tags as shown below:
-
-```html
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-```
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 ### Additional Skill Badges
 
 [![image](https://github.com/Amarpreet3/Github-readme-skill-icons/assets/96805692/cd390bcd-0b84-48ae-8609-8563742e5863)](https://shields.io/)
