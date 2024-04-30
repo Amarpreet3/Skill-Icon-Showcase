@@ -1,4 +1,4 @@
-# Github-readme-skill-icons
+# Skill Icon Showcase
 
 
 Showcase your programming skills on your GitHub or résumé with ease! Powered by Cloudflare Workers ⚡
