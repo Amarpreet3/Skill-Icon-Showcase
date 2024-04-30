@@ -1,5 +1,7 @@
 # Github-readme-skill-icons
+Sure, here's an updated version of the README.md template that includes the additional skill icons and badge links you provided:
 
+```markdown
 # Skill Icons
 
 Showcase your programming skills on your GitHub or résumé with ease! Powered by Cloudflare Workers ⚡
@@ -12,7 +14,13 @@ Showcase your programming skills on your GitHub or résumé with ease! Powered b
 To add skill icons to your readme, copy and paste the code block below and customize it with your skills, separated by commas. Find the full list of available icons at [Skill Icons List](https://skillicons.dev).
 
 ```markdown
-[![My Skills](https://skillicons.dev/icons?i=python,r,c,cpp,java,javascript,regex)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org)
+[![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Regex](https://skillicons.dev/icons?i=regex)](https://www.regular-expressions.info)
 ```
 
 ### Themed Icons
@@ -41,12 +49,21 @@ To center the icons in your readme, use HTML alignment tags as shown below:
 </p>
 ```
 
+### Additional Skill Badges
+Enhance your skills showcase with additional badges linking to relevant technologies and platforms:
+
+```markdown
+[![SAS](https://img.shields.io/badge/-SAS-CA2129?style=flat-square&logo=SAS&logoColor=white)](https://www.sas.com)
+[![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)](https://hadoop.apache.org)
+[![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=black)](https://hive.apache.org)
+[![Pig](https://img.shields.io/badge/-Pig-F0AD4E?style=flat-square&logo=ApachePig&logoColor=white)](https://pig.apache.org)
+```
+
 ## Icon List
 For a complete list of supported icons and to request new ones, please open an issue on our GitHub repository.
 
 
-
-Feel free to contribute via issues for icon suggestions or by making pull requests.
 
 ## About
 This project makes it easy to showcase your skills on GitHub readmes or résumés. Visit [Skill Icons Website](https://skillicons.dev) for more information.
