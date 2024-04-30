@@ -6,21 +6,23 @@ Showcase your programming skills on your GitHub or résumé with ease! Powered b
 ### Example
 ```markdown
 [![Python](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg)](https://www.python.org)
-[![R](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/r.svg)](https://www.r-project.org)
-[![C](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/c.svg)](https://www.iso.org/standard/74528.html)
-[![C++](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/cpp.svg)](https://isocpp.org)
-[![Java](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/java.svg)](https://www.oracle.com/java)
-[![JavaScript](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Regex](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/regex.svg)](https://www.regular-expressions.info)
+[![R](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/R-Dark.svg)](https://www.r-project.org)
+[![C](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/C.svg)](https://www.iso.org/standard/74528.html)
+[![C++](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/CPP.svg)](https://isocpp.org)
+[![Java](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)](https://www.oracle.com/java)
+[![JavaScript](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/JavaScript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Regex](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Regex-Dark.svg)](https://www.regular-expressions.info)
+
 ```
 
 [![Python](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg)](https://www.python.org)
-[![R](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/r.svg)](https://www.r-project.org)
-[![C](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/c.svg)](https://www.iso.org/standard/74528.html)
-[![C++](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/cpp.svg)](https://isocpp.org)
-[![Java](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/java.svg)](https://www.oracle.com/java)
-[![JavaScript](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Regex](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/regex.svg)](https://www.regular-expressions.info)
+[![R](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/R-Dark.svg)](https://www.r-project.org)
+[![C](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/C.svg)](https://www.iso.org/standard/74528.html)
+[![C++](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/CPP.svg)](https://isocpp.org)
+[![Java](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)](https://www.oracle.com/java)
+[![JavaScript](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/JavaScript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Regex](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Regex-Dark.svg)](https://www.regular-expressions.info)
+
 
 
 **Note**: To maintain icon consistency and ensure browser support, we do not accept pull requests for icon submissions. If you want an icon added, please open an issue.
