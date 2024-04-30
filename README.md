@@ -1,11 +1,10 @@
 # Github-readme-skill-icons
-<p align="center">
-  <img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/>
-</p>
-<p align="center">
-  <img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/>
-</p>
 
+<!-- This is for dark mode -->
+<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
+
+<!-- This is for light mode -->
+<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 
 Showcase your programming skills on your GitHub or résumé with ease! Powered by Cloudflare Workers ⚡
 
