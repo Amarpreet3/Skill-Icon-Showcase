@@ -14,7 +14,38 @@ Showcase your programming skills on your GitHub or résumé with ease! Powered b
 [![Regex](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Regex-Dark.svg)](https://www.regular-expressions.info)
 
 ```
+### After resizing in html
 
+```
+<a href="https://www.python.org">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50">
+</a>
+
+<a href="https://www.r-project.org">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="50" height="50">
+</a>
+
+<a href="https://www.iso.org/standard/74528.html">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
+</a>
+
+<a href="https://isocpp.org">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50">
+</a>
+
+<a href="https://www.oracle.com/java">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50">
+</a>
+
+<a href="https://www.regular-expressions.info">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Regex-Dark.svg" alt="Regex" width="50" height="50">
+</a>
+
+```
 <a href="https://www.python.org">
   <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50">
 </a>
