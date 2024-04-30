@@ -1,5 +1,5 @@
 # Github-readme-skill-icons
-Sure, here's an updated version of the README.md template that includes the additional skill icons and badge links you provided:
+
 
 ```markdown
 # Skill Icons
