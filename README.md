@@ -21,6 +21,10 @@ To add skill icons to your readme, copy and paste the code block below and custo
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Regex](https://skillicons.dev/icons?i=regex)](https://www.regular-expressions.info)
 ```
+###Example
+
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org)
 
 ### Themed Icons
 Icons can be displayed with a dark or light theme. Specify your preference using the `&theme=` parameter in the URL.
@@ -58,7 +62,10 @@ Enhance your skills showcase with additional badges linking to relevant technolo
 [![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=black)](https://hive.apache.org)
 [![Pig](https://img.shields.io/badge/-Pig-F0AD4E?style=flat-square&logo=ApachePig&logoColor=white)](https://pig.apache.org)
 ```
+### Example 
 
+[![SAS](https://img.shields.io/badge/-SAS-CA2129?style=flat-square&logo=SAS&logoColor=white)](https://www.sas.com)
+[![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 ## Icon List
 For a complete list of supported icons and to request new ones, please open an issue on our GitHub repository.
 
