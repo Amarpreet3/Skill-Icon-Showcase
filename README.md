@@ -21,7 +21,7 @@ To add skill icons to your readme, copy and paste the code block below and custo
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Regex](https://skillicons.dev/icons?i=regex)](https://www.regular-expressions.info)
 ```
-###Example
+### Example
 
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org)
