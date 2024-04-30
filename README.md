@@ -22,7 +22,7 @@ To add skill icons to your readme, copy and paste the code block below and custo
 ### Example
 
 [![Python](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg)](https://www.python.org)
-[![R](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/r.svg)](https://www.r-project.org)
+[![R](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/R-Dark.svg)](https://www.r-project.org)
 
 ### Themed Icons
 Icons can be displayed with a dark or light theme. Specify your preference using the `&theme=` parameter in the URL.
