@@ -1,6 +1,7 @@
 # Github-readme-skill-icons
 
-[![Skill Icons](https://skillicons.dev/icons?i=code)](https://skillicons.dev)
+[![image](https://github.com/Amarpreet3/Github-readme-skill-icons/assets/96805692/241e9ab4-77b2-4903-aedb-3a0d13f69682)
+](https://skillicons.dev)
 
 Showcase your programming skills on your GitHub or résumé with ease! Powered by Cloudflare Workers ⚡
 
