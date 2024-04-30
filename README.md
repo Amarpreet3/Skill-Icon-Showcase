@@ -68,7 +68,7 @@ Icons can be displayed with a dark or light theme. Specify your preference using
 
 ```
 ### See the difference
-[![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Light.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
+[![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
 [![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Light.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
 
 ### Icons Per Line
