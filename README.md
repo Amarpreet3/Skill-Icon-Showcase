@@ -64,8 +64,11 @@ Icons can be displayed with a dark or light theme. Specify your preference using
 
 **Example - Light Theme**:
 ```markdown
-[![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
+[![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Light.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
+
 ```
+### See the difference
+[![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Light.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
 [![My Skills](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Light.svg)](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg)
 
 ### Icons Per Line
@@ -107,8 +110,6 @@ Enhance your skills showcase with additional badges linking to relevant technolo
 [![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 ## Icon List
 For a complete list of supported icons and to request new ones, please open an issue on our GitHub repository.
-
-
 
 ## About
 This project makes it easy to showcase your skills on GitHub readmes or résumés. Visit [Skill Icons Website](https://skillicons.dev) for more information.
